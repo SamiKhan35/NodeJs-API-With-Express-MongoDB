@@ -1,0 +1,46 @@
+[
+  {
+    "_id": "601119c183ecc16333ffa07a",
+    "title": "Frontend web development",
+    "description": "This course will provide you everything about development",
+    "weeks": 9,
+    "tuition": 6000,
+    "minimumSkill": "beginner",
+    "scholarshipsAvailable": true,
+    "bootcamp": "650d7abc0ac1a635536ef38c",
+    "user": "9494fdnkd9943dd9edkd4oid"
+  },
+  {
+    "_id": "601119c183ecc16333ffa07b",
+    "title": "Backend web development",
+    "description": "This course will provide you everything about development",
+    "weeks": 9,
+    "tuition": 6000,
+    "minimumSkill": "advance",
+    "scholarshipsAvailable": true,
+    "bootcamp": "651119c183ecc16333ffa077",
+    "user": "9494fdnkd9943dd9edkd4oid"
+  },
+  {
+    "_id": "601119c183ecc16333ffa07c",
+    "title": "MERN stack development",
+    "description": "This course will provide you everything about development",
+    "weeks": 9,
+    "tuition": 6000,
+    "minimumSkill": "beginner",
+    "scholarshipsAvailable": true,
+    "bootcamp": "650d7ac0ac1a635536ef78cb",
+    "user": "9494fdnkd9943dd9edkd4oid"
+  },
+  {
+    "_id": "601119c183ecc16333ffa07d",
+    "title": "Frontend web development",
+    "description": "This course will provide you everything about development",
+    "weeks": 9,
+    "tuition": 6000,
+    "minimumSkill": "advance",
+    "scholarshipsAvailable": true,
+    "bootcamp": "650d7abc0ac1a635536ef78c",
+    "user": "9494fdnkd9943dd9edkd4oid"
+  }
+]

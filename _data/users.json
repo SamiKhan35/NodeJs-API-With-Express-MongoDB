@@ -1,0 +1,30 @@
+[
+  {
+    "_id": "943kjadk3993dkjd933dd",
+    "name": "Admin Account",
+    "email": "admin@gmail.com",
+    "role": "user",
+    "password": "123"
+  },
+  {
+    "_id": "943kjadk39983dkjd933dd",
+    "name": "Publisher Account",
+    "email": "publisher@gmail.com",
+    "role": "publisher",
+    "password": "1234"
+  },
+  {
+    "_id": "943kjasdk3993dkjd933dd",
+    "name": "Admin Account",
+    "email": "admin@gmail.com",
+    "role": "user",
+    "password": "123"
+  },
+  {
+    "_id": "943kjwadk3993dkjd933dd",
+    "name": "Course Account",
+    "email": "course@gmail.com",
+    "role": "course",
+    "password": "123"
+  }
+]
